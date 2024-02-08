@@ -7,7 +7,7 @@ Un conseil essayer par vous même c'est la seule façon d'apprendre.
 Même si vous êtes en "retard" par rapport aux autres, sachez que ce n'est rien. 
 Le but c'est d'apprendre.
 
-La norminette sera votre meilleur ami !
+La "norminette" sera votre meilleur ami, encore aujourd'hui je remercie de l'avoir croisé !
 
 Certains n'ont pas été pris malgré qu'il était plus avancé que moi dans les travaux.
 Ce qui compte c'est le jour des épreuves (le vendredi) c'est ce qui fait la différence !
