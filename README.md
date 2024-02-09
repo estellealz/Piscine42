@@ -1,3 +1,4 @@
+Piscine 42 Juillet 2023.
 Pour information : Je me suis arrêtée au C07 et c'était la Piscine de Juillet 2023 ✅
 
 C'était une expérience vraiment enrichissante de faire cette Piscine à 42. 
