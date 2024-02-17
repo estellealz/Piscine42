@@ -1,10 +1,9 @@
 #include <unistd.h>
 
-void	ft_swap(int *a, int *b)
+// Fonction pour échanger les valeurs des variables pointées par a et b (pointeurs sur int)
+void ft_swap(int *a, int *b)
 {
-	int	c;
-
-	c = *a;
-	*a = *b;
-	*b = c;
+    int c = *a;
+    *a = *b;
+    *b = c;
 }
