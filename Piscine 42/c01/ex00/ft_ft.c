@@ -1,6 +1,7 @@
 #include <unistd.h>
 
-void	ft_ft(int *nbr)
+// Fonction pour affecter la valeur 42 à la variable pointée par nbr
+void ft_ft(int *nbr)
 {
-	*nbr = 42;
+    *nbr = 42;
 }
