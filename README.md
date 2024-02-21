@@ -8,7 +8,7 @@ Un conseil essayer par vous même c'est la seule façon d'apprendre.
 Même si vous êtes en "retard" par rapport aux autres, sachez que ce n'est rien. 
 Le but c'est d'apprendre.
 
-La "norminette" sera votre meilleure amie, encore aujourd'hui je remercie de l'avoir croisé !
+La "norminette" sera votre meilleure amie, encore aujourd'hui je remercie de l'avoir croisée !
 Grâce à elle je structure bien mes codes avec facilité. 
 
 Certains n'ont pas été pris malgré qu'il était plus avancé que moi dans les travaux.
