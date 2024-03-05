@@ -1,22 +1,21 @@
 #include <unistd.h>
 
-void	ft_swap(int *a, int *b)
+// Fonction pour échanger les valeurs de deux entiers
+void ft_swap(int *a, int *b)
 {
-	int	c;
-
-	c = *a;
-	*a = *b;
-	*b = c;
+    int c = *a;
+    *a = *b;
+    *b = c;
 }
 
-void	ft_rev_int_tab(int *tab, int size)
+// Fonction pour inverser un tableau d'entiers
+void ft_rev_int_tab(int *tab, int size)
 {
-	int	i;
-
-	i = 0;
-	while (i < size / 2)
-	{
-		ft_swap(&tab[i], &tab[size - i + 1]);
-		i++;
-	}
+    int i = 0;
+    while (i < size / 2)
+    {
+        // Appelle la fonction ft_swap pour échanger les éléments symétriques
+        ft_swap(&tab[i], &tab[size - i - 1]);
+        i++;
+    }
 }
